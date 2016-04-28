@@ -9,7 +9,9 @@ Version <strong>1.0</strong>
 With this userscript, a thick line between seasons at the episode view are being shown, so that you'll get to see the difference between seasons better.
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/TomONeill/Seriesfeed-Season-Separator/master/Screenshots/v1.0.png" alt="Version 1.0" width="250px" />
+Comparison between the original and with the userscript.
+<img src="https://raw.githubusercontent.com/TomONeill/Seriesfeed-Season-Separator/master/Screenshots/v1.0-original.png" alt="Original" width="250px" />
+<img src="https://raw.githubusercontent.com/TomONeill/Seriesfeed-Season-Separator/master/Screenshots/v1.0.png" alt="With userscript" width="250px" />
 
 # Changelog
 <A HREF="https://raw.githubusercontent.com/TomONeill/Seriesfeed-Season-Separator/master/Changelog.txt">View changelog</A>
