@@ -3,7 +3,7 @@ Shows a thick line between seasons at the episode view.
 <BR/>
 Enjoy.
 <BR/><BR/>
-Version <strong>1.0</strong>
+Version <strong>1.0.1</strong>
 
 # Information
 With this userscript, a thick line between seasons at the episode view are being shown, so that you'll get to see the difference between seasons better.

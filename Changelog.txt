@@ -1,4 +1,7 @@
 Seriesfeed Season Separator
 
+Version 1.0.1 (30 April 2016)
+Code cleanup.
+
 Version 1.0 (28 April 2016)
 First release.

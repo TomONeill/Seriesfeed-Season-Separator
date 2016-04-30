@@ -15,8 +15,6 @@
 'use strict';
 
 $(function() {
-	//border-bottom: 3px solid #DDD;
-	
 	if (window.location.href.indexOf("afleveringen") > -1) {
 		var episodes = $('#afleveringen').find('tr');
 		
