@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @name         Seriesfeed Season Separator
 // @namespace    http://www.seriesfeed.com
-// @version      1.0
+// @version      1.0.1
 // @description  Shows a thick line between seasons at the episode view.
 // @match        http://*.seriesfeed.com/*
 // @run-at       document-start
