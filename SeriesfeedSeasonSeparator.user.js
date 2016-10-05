@@ -3,6 +3,7 @@
 // @namespace    http://www.seriesfeed.com
 // @version      1.0.1
 // @description  Shows a thick line between seasons at the episode view.
+// @updateURL 	 https://github.com/TomONeill/Seriesfeed-Season-Separator/raw/master/SeriesfeedSeasonSeparator.user.js
 // @match        http://*.seriesfeed.com/*
 // @run-at       document-start
 // @grant        unsafeWindow
