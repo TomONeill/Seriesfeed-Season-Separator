@@ -3,7 +3,7 @@ Shows a thick line between seasons at the episode view.
 <BR/>
 Enjoy.
 <BR/><BR/>
-Version <strong>1.0.1</strong>
+Version <strong>1.0.2</strong>
 
 <A HREF="https://github.com/TomONeill/Seriesfeed-Season-Separator/raw/master/SeriesfeedSeasonSeparator.user.js">INSTALL</A>
 

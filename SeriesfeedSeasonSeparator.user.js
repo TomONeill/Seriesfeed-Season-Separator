@@ -5,9 +5,8 @@
 // @description  Shows a thick line between seasons at the episode view.
 // @updateURL 	 https://github.com/TomONeill/Seriesfeed-Season-Separator/raw/master/SeriesfeedSeasonSeparator.user.js
 // @match        https://*.seriesfeed.com/*
-// @run-at       document-start
 // @grant        unsafeWindow
-// @require      http://code.jquery.com/jquery-1.12.2.min.js
+// @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @author       Tom
 // @copyright    2016+, Tom
 // ==/UserScript==
@@ -28,9 +27,7 @@ $(function() {
 			var season = /S(.*)E/.exec(tag)[1];
 			
 			if (current !== season) {
-				if (!row.is(':first-child')) {
-					row.css('border-top', '3px solid #DDD');
-				}
+				row.css('border-top', '3px solid #DDD');
 				current = season;
 			}
 		}
