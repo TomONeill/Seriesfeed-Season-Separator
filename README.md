@@ -24,6 +24,7 @@ Check out other userscripts for Seriesfeed by me:<BR/>
     <li><A HREF="https://github.com/TomONeill/Seriesfeed-Importer">Import favourites</A></li>
     <li><A HREF="https://github.com/TomONeill/Seriesfeed-Import-Time-Wasted">Import Time Wasted</A></li>
     <li><A HREF="https://github.com/TomONeill/Seriesfeed-Move">Move cards on frontpage</A></li>
+	<li><A HREF="https://github.com/TomONeill/seriesfeed-episode-inverter">Episode Inverter</A></li>
 </ul>
 
 # About userscripts
