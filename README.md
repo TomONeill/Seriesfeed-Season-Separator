@@ -21,10 +21,9 @@ Comparison between the original and with the userscript.<BR />
 # Other userscripts
 Check out other userscripts for Seriesfeed by me:<BR/>
 <ul>
-    <li><A HREF="https://github.com/TomONeill/Seriesfeed-Importer">Import favourites</A></li>
-    <li><A HREF="https://github.com/TomONeill/Seriesfeed-Import-Time-Wasted">Import Time Wasted</A></li>
-    <li><A HREF="https://github.com/TomONeill/Seriesfeed-Move">Move cards on frontpage</A></li>
-	<li><A HREF="https://github.com/TomONeill/seriesfeed-episode-inverter">Episode Inverter</A></li>
+    <li><A HREF="https://github.com/TomONeill/seriesfeed-transporter">Seriesfeed Transporter</A>: Import and export your favourites and time wasted.</li>
+    <li><A HREF="https://github.com/TomONeill/Seriesfeed-Move">Seriesfeed Move</A>: drag and drop frontpage items to your liking.</li>
+    <li><A HREF="https://github.com/TomONeill/seriesfeed-episode-inverter">Seriesfeed Episode Inverter</A>: Choose whether episodes are sorted ascending or descending.</li>
 </ul>
 
 # About userscripts
